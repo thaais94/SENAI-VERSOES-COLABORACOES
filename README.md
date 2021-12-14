@@ -1,4 +1,5 @@
 # SENAI-VERSOES-COLABORACOES
+Principais comando git
 git init
 git log
 git status
